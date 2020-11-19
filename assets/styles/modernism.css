@@ -170,7 +170,7 @@ a.link:after {
 .sticky tr {
   position: fixed;
   width: 95vw;
-  background: #000;
+  background: #1b1b1b;
   padding: 1.5rem 0 1rem 0;
   display: table;
   top: -4rem;
