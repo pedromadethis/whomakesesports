@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  text-rendering: optimizeLegibility;
 }
 *,
 *:before,
@@ -9,17 +10,20 @@ html {
 
 body {
   font-family: "Helvetica Now Display", "Helvetica Neue", "Helvetica";
-  background: #1b1b1b;
+  background: #101010;
   color: #fff;
   font-weight: 500;
   margin: 0;
   padding: 0;
+  text-shadow: rgba(0,0,0,.01) 0 0 1px;
 }
 
 .container {
-  width: 95vw;
-  margin: 3rem auto;
+  width: 90vw;
+  margin: 5rem auto;
   position: relative;
+  background-color: #1b1b1b;
+  padding: 2rem 5rem;
 }
 
 a {
