@@ -21,7 +21,7 @@ export default function Nav(props) {
       <style jsx>{`
         ul {
           padding: 0;
-          margin: 0;
+          margin: 5% auto;
           display: flex;
         }
 
