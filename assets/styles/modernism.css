@@ -205,14 +205,26 @@ a.link:after {
 
 /* Responsive
  ----------------------------- */
-@media (max-width: 480px) {
+ @media (max-width: 480px) {
   :root {
-    font-size: 12px;
+    font-size: 11px;
   }
-
+  .container {
+    width: 100vw;
+    margin: auto;
+    position: relative;
+    background: #1b1b1b;
+    padding: 0rem 2rem;
+  }
+  .tableContent {
+    padding-top: 8vh;
+  }
+  .title{
+    padding-top: 17vh;
+  }
   h1,
   .f1 {
-    font-size: 4rem;
+    font-size: 5rem;
     letter-spacing: -0.02em;
   }
 
