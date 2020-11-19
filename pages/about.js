@@ -38,7 +38,7 @@ export default function Home({ designers }) {
 
       <Title
         className="title m0 p0"
-        text="Who&nbsp;Makes&nbsp;Esports&nbsp;is&nbsp;a"
+        text="Who&nbsp;Makes&nbsp;Esports"
         noAnimation
       />
 
@@ -49,9 +49,8 @@ export default function Home({ designers }) {
         exit="hidden"
       >
         <p className="f1 extend">
-          <motion.span variants={item}>place to showcase</motion.span>{" "}
+          <motion.span variants={item}>is a place to showcase</motion.span>{" "}
           <motion.span variants={item}>the work of Esports</motion.span>{" "}
-          <motion.span variants={item}>Brazilian designers to</motion.span>{" "}
           <motion.span variants={item}>Professionals</motion.span>{" "}
           <motion.span variants={item}>to the world.</motion.span>{" "}
         </p>
