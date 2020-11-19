@@ -123,7 +123,7 @@ export default function Home({ designers, filters }) {
       }}
     >
       <Head>
-        <title>Brazilians Who Design</title>
+        <title>Who Makes Esports</title>
         <link id="favicon" rel="alternate icon" href="/favicon.ico" />
         <MetaTags />
       </Head>
@@ -199,7 +199,7 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
                   e.preventDefault();
                 }}
               >
-                Location <FilterSVG />
+                Organization <FilterSVG />
               </td>
               <td
                 className="thsize-aux filterTable"

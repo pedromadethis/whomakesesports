@@ -27,7 +27,7 @@ export default function Home({ designers }) {
   return (
     <div className="container">
       <Head>
-        <title>Brazilians Who Design | About</title>
+        <title>Who Makes Esports | About</title>
         <link rel="icon" href="/favicon.ico" />
         <MetaTags />
       </Head>
