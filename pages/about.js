@@ -195,8 +195,8 @@ export default function Home({ designers }) {
           Feel free to support with <a
               className="link"
               target="_blank"
-              href="https://github.com/pedromadethis/whomakesesports"
-            >donations </a> and help keep the <a
+              href="https://www.patreon.com/whomakesesports"
+            >donations </a> at Patreon and help keep the <a
             className="link"
             target="_blank"
             href="https://www.typeform.com/pricing"
