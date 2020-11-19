@@ -13,7 +13,11 @@ export default function Nav(props) {
           <a>Nominate</a>
         </Link>
       </li>
-
+      <li>
+        <Link href="mailto:hello@whomakesesports.com">
+          <a>Contact</a>
+        </Link>
+      </li>
       <style jsx>{`
         ul {
           padding: 0;
