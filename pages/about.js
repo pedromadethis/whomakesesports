@@ -190,9 +190,17 @@ export default function Home({ designers }) {
           <p>
           If you’ve been added to the directory and would like to opt-out or make an edit to your profile, please send us a message at hello@whomakesesports.com.
           </p>
-          <h3>Why is my nomination taking so long to show?</h3>
+          <h3>How can i help with this?</h3>
           <p>
-          We update this website once a week to include new names. Some nominations might take longer to appear as we have to validate and verify all the information beforehand
+          Feel free to support with <a
+              className="link"
+              target="_blank"
+              href="https://github.com/pedromadethis/whomakesesports"
+            >donations </a> and help keep the <a
+            className="link"
+            target="_blank"
+            href="https://www.typeform.com/pricing"
+          >typeform</a> working. For the rest, all remaining costs (Domain, Server and Maintenance) will be borne by me.
           </p>
         </div>
 
